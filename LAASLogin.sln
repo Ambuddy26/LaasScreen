@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAASLogin", "LAASLogin\LAASLogin.csproj", "{D3E2CCDC-8707-44C1-AADA-272207D2B726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAASBusinessLayer", "LAASBusinessLayer\LAASBusinessLayer.csproj", "{0622ADEA-B81C-4BE1-A2FF-C6CD9515FC6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E2CCDC-8707-44C1-AADA-272207D2B726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E2CCDC-8707-44C1-AADA-272207D2B726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E2CCDC-8707-44C1-AADA-272207D2B726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E2CCDC-8707-44C1-AADA-272207D2B726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0622ADEA-B81C-4BE1-A2FF-C6CD9515FC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0622ADEA-B81C-4BE1-A2FF-C6CD9515FC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0622ADEA-B81C-4BE1-A2FF-C6CD9515FC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0622ADEA-B81C-4BE1-A2FF-C6CD9515FC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {761CBA47-57DB-47B7-8B28-D6E003B4E981}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LAASBusinessLayer\\LAASBusinessLayer.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = LAASBusinessLayer\\
+		SccProjectUniqueName2 = LAASLogin\\LAASLogin.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = LAASLogin\\
+	EndGlobalSection
+EndGlobal
